@@ -1,2 +1,2 @@
 #!/bin/sh
-python makeMakefile.py
+python3 makeMakefile.py
